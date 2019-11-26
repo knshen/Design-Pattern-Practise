@@ -1,3 +1,7 @@
 /factory/
 /composite/
 /strategy/
+/reponse/
+/command/
+/producer/
+/singleton/
