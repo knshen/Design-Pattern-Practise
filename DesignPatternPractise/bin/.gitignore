@@ -5,3 +5,6 @@
 /command/
 /producer/
 /singleton/
+/proxy/
+/decorator/
+/adapter/
