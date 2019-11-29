@@ -1,10 +1,2 @@
-/factory/
-/composite/
-/strategy/
-/reponse/
-/command/
 /producer/
-/singleton/
-/proxy/
-/decorator/
-/adapter/
+*.class
