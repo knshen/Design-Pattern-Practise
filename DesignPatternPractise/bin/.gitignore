@@ -1,2 +1,11 @@
 /producer/
 *.class
+/adapter/
+/command/
+/composite/
+/decorator/
+/factory/
+/proxy/
+/reponse/
+/singleton/
+/strategy/
